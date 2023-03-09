@@ -1,0 +1,12 @@
+http://127.0.0.1:80/Dev/Php-Stats/php-stats.js.php?view=off
+http://127.0.0.1:80/jserv/engine/0/org.apache.jserv.JServ
+http://127.0.0.1:80/nothing.new/statistiche/php-stats.js.php
+http://127.0.0.1:80/nwz/site/stats/php-stats.js.php
+http://127.0.0.1:80/phpstats/php-stats.js.php
+http://127.0.0.1:80/servlets/org.apache.jserv.JServ
+http://127.0.0.1:80/servlets/org.apache.jserv.servlets.E
+http://127.0.0.1:80/www.robertsnuze.it/stats/php-stats.js.php
+http://127.0.0.1/angular.js/example/advanced/Templating/
+http://127.0.0.1/?pf=commentsWikibar/jsToolBar.comments.js
+http://127.0.0.1/VS2/phpstats/php-stats.js.php
+http://127.0.0.1/web-phpstats/phpstats/php-stats.js.php
